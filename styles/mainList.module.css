@@ -1,0 +1,11 @@
+.mainList {
+	padding: 100px 20px;
+}
+
+.mainList li ~ li {
+	margin-top: 20px;
+}
+
+.mainList li a:hover {
+	color:red;
+}

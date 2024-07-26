@@ -1,5 +1,6 @@
 import React from "react";
+import styles from "../styles/footer.module.css";
 
 export default function Footer() {
-  return <div>Footer</div>;
+  return <footer className={styles.footer}><span>&copy;</span>copy 2024 Dang</footer>;
 }

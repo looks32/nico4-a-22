@@ -1,0 +1,10 @@
+.footer {
+	position: fixed;
+	bottom: 0;
+	right: 0;
+	padding: 40px;
+	text-align: right;
+}
+.footer span {
+	margin-right: 4px;
+}
