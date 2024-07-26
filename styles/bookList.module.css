@@ -2,10 +2,10 @@
 	padding: 100px 20px;
 }
 
-/* .bookList li ~ li {
+.bookList li ~ li {
 	margin-top: 20px;
 }
 
 .bookList li a:hover {
 	color:red;
-} */
+}
