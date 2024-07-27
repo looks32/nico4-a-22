@@ -1,13 +1,18 @@
 .header {
 	display: flex;
+	align-items: center;
+	justify-content: space-between;
 	position: fixed;
 	top: 0;
 	left: 0;
 	width: 100%;
-	padding: 20px;
+	padding: 35px 20px;
 	border-bottom: 2px solid #000;
-	justify-content: space-between;
 	background-color: #fff;
+}
+
+.header h1 {
+	font-size: 30px;
 }
 
 .header a:hover {

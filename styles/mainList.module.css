@@ -1,11 +1,25 @@
 .mainList {
-	padding: 100px 20px;
+	padding: 190px 20px 130px;
+}
+
+.mainList h2 {
+	position: fixed;
+	left: 0;
+	top: 102px;
+	width: 100%;
+	font-size: 25px;
+	padding: 30px 20px;
+	background-color: #fff;
+}
+
+.bookList ul {
+	margin-top: 40px;
 }
 
 .mainList li ~ li {
 	margin-top: 20px;
 }
 
-.mainList li a:hover {
+.mainList li a:hover span {
 	color:red;
 }

@@ -1,11 +1,3 @@
 .bookList {
-	padding: 100px 20px;
-}
-
-.bookList li ~ li {
-	margin-top: 20px;
-}
-
-.bookList li a:hover {
-	color:red;
+	padding: 130px 20px
 }

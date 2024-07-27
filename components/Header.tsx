@@ -9,6 +9,9 @@ export default function Header() {
             <Link href="/">Home</Link>
         </li>
         <li>
+          <h1>@ Library @</h1>
+        </li>
+        <li>
             <Link href="/about">About</Link>
         </li>
     </ul>

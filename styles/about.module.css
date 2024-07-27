@@ -1,0 +1,12 @@
+.aboutWrap {
+	padding: 130px 20px;
+}
+
+.aboutWrap h2 {
+	font-size: 25px;
+}
+.aboutWrap div {
+	margin-top: 40px;
+	font-size: 20px;
+	line-height: 1.6;
+}
