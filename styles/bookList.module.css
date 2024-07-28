@@ -1,14 +1,19 @@
 .bookList {
-	padding: 130px 20px
+	padding: 190px 20px 130px;
 }
 
 .bookList h2 {
+	position: fixed;
+	left: 0;
+	top: 102px;
+	z-index: 500;
+	width: 100%;
 	font-size: 25px;
+	padding: 30px 20px;
+	background-color: #fff;
 }
 
-.listArea {
-	margin-top: 40px;
-}
+.listArea {}
 
 .listArea li ~ li {
 	margin-top: 25px;
@@ -43,7 +48,7 @@
 	position: absolute;
 	top: -120px;
     left: 200px;
-	z-index: 10;
+	z-index: 501;
 }
 
 .imgArea img {

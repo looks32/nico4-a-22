@@ -27,7 +27,7 @@ export default async function BookList({book}) {
                                         </div>
                                     </div>
                                     <div className={styles.author}>{`- ${b.author}`}</div>
-                                    <a href={b.amazon_product_url} title="" target="_blank">[Buy Link]</a>
+                                    <a href={b.amazon_product_url} title={b.title}target="_blank">[Buy Link]</a>
                                 </li>
                             )
                         }
