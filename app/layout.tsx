@@ -4,8 +4,8 @@ import "../styles/reset.css";
 
 export const metadata = {
   title:{
-    template : "%s | New York",
-    default : "Home | New York",
+    template : "%s | New York Library",
+    default : "Home | New York Library",
   },
   description: '뉴욕 타임즈 베스트셀러',
 }
