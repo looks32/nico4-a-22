@@ -11,11 +11,3 @@ export default function Home() {
     </div>
   );
 }
-
-// reset css
-// loading componets
-// error components
-// interface 작성
-// https://books-api.nomadcoders.workers.dev/lists
-// https://books-api.nomadcoders.workers.dev/list?name=hardcover-fiction
-
